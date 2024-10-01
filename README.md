@@ -40,7 +40,7 @@ Users API
    2. Create docker container for PostgreSQL:
 
    ```bash
-    npm container
+    npm create-container
    ```
 
    3. Run application:
